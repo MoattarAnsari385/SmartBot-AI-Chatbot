@@ -1,0 +1,7 @@
+# Streamlit secrets - NEVER push to GitHub
+.streamlit/secrets.toml
+*.toml
+secrets.toml
+
+# Chat history
+chat_history_*.json
